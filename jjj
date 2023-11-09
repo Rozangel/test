@@ -1,0 +1,19 @@
+<html>
+<body>
+<h1> Определитель номера четверти координатной плоскости, в которой лежит точка </h1>
+<py-script>
+    x=int(input("Введите значение x: "))
+    y=int(input("Введите значение y: "))
+if (x>0) and (y>0):
+    print ("I четверть")
+elif (x<0) and (y>0):
+    print ("II четверть")
+elif (x<0) and (y<0):
+    print ("III четверть")
+elif (x>0) and (y<0):
+    print("IV четверть")
+else:
+    print ("Оси")
+<\py-script>
+    </body>
+    </html>
