@@ -18,12 +18,5 @@ elif (x>0) and (y<0):
 else:
     print ("Оси")
 <\py-script>
-    </body>
-    </html>
- 
-  <body>
-    <h3> <b>Митрополит Тихон (Шевкунов)</b> </h3>
-  
-
   </body>
 </html>
